@@ -1,0 +1,80 @@
+MESSAGE,RESPONSE
+Agent Copy Issue CREATED ,Agent_Copy_Issue-CREATED.docx
+Bajaj Insurance ,Bajaj Insurance.docx
+Deployment jsp file CREATED ,Deployment jsp file-CREATED.docx
+Fire ,Fire.docx
+Health Renewal ,Health_Renewal.docx
+IMD Remapping ,IMD_Remapping.docx
+KB for Accounts all basic transaction wise batch wise checking v1 ,KB-for-Accounts-all-basic-transaction-wise-batch-wise-checking-v1.docx
+KB for Accounts balance accounting v1 ,KB-for-Accounts-balance-accounting-v1.docx
+KB for Accounts basic total float balance checking v1 ,KB-for-Accounts-basic-total-float-balance-checking-v1.docx
+KB for Accounts daily execution queries and tables v1 ,KB-for-Accounts-daily-execution-queries-and-tables-v1.docx
+KB for Accounts for all basic balance checking v1 ,KB-for-Accounts-for-all-basic-balance-checking-v1.docx
+KB for Accounts insert club data v1 ,KB-for-Accounts-insert-club-data-v1.docx
+KB for Accounts new FLTTRF v1 ,KB-for-Accounts-new-FLTTRF-v1.docx
+KB for Accounts NF release v1 ,KB-for-Accounts-NF-release-v1.docx
+KB for Accounts pass reverse FLTTRF v1 ,KB-for-Accounts-pass-reverse-FLTTRF-v1.docx
+KB for Accounts pass TRFFSCRPT v1 ,KB-for-Accounts-pass-TRFFSCRPT-v1.docx
+KB for Accounts transfer temporary receipt customer v1 ,KB-for-Accounts-transfer-temporary-receipt-customer-v1.docx
+KB for Accounts transfer temporary receipt imd v1 ,KB-for-Accounts-transfer-temporary-receipt-imd-v1.docx
+KB for PPM bulk user id creation v1 ,KB-for-PPM-bulk-user-id-creation-v1.docx
+KB for RNL agent copy issue v1 ,KB-for-RNL-agent-copy-issue-v1.docx
+KEDB for Accounting float receipt not reflecting while issuance v1 ,KEDB-for-Accounting-float-receipt-not-reflecting-while-issuance-v1.docx
+KEDB for Accounting premium or receipt not reflecting v1 ,KEDB-for-Accounting-premium-or-receipt-not-reflecting-v1.docx
+KEDB for Accounting receipt not reflecting in TR module v1 ,KEDB-for-Accounting-receipt-not-reflecting-in-TR-module-v1.docx
+KEDB for Accounting receipt not reflecting while issuance v1 ,KEDB-for-Accounting-receipt-not-reflecting-while-issuance-v1.docx
+KEDB for ATM cheque bounce automailer closure v1 ,KEDB-for-ATM-cheque-bounce-automailer-closure-v1.docx
+KEDB for GIOS duplicate location issue v1 ,KEDB-for-GIOS-duplicate-location-issue-v1.docx
+KEDB for GIOS error in endorsement and renewal v1 ,KEDB-for-GIOS-error-in-endorsement-and-renewal-v1.docx
+KEDB for GIOS error while calculating premium v1 ,KEDB-for-GIOS-error-while-calculating-premium-v1.docx
+KEDB for GIOS error while cancelling policy v1 ,KEDB-for-GIOS-error-while-cancelling-policy-v1.docx
+KEDB for GIOS excess clause for CPM missing v1 ,KEDB-for-GIOS-excess-clause-for-CPM-missing-v1.docx
+KEDB for GIOS location screen redirection issue v1 ,KEDB-for-GIOS-location-screen-redirection-issue-v1.docx
+KEDB for GIOS renewal policy issue v1 ,KEDB-for-GIOS-renewal-policy-issue-v1.docx
+KEDB for GIOS showing item rate blank v1 ,KEDB-for-GIOS-showing-item-rate-blank-v1.docx
+KEDB for GIOS unable to approve scrutiny v1 ,KEDB-for-GIOS-unable-to-approve-scrutiny-v1.docx
+KEDB for GIOS voilated in endorsement and renewal v1 ,KEDB-for-GIOS-voilated-in-endorsement-and-renewal-v1.docx
+KEDB for HCM Incorrect Cumulative Bonus Sum insured reflecting v1 ,KEDB-for-HCM-Incorrect-Cumulative-Bonus-Sum-insured-reflecting-v1.docx
+KEDB for HCM TPA claims wrong status in bagic v1 ,KEDB-for-HCM-TPA-claims-wrong-status-in-bagic-v1.docx
+KEDB for HIT system showing wrong member details v1 ,KEDB-for-HIT-system-showing-wrong-member-details-v1.docx
+KEDB for HIT unable to issue policy v1 ,KEDB-for-HIT-unable-to-issue-policy-v1.docx
+KEDB for IIB issue policy not reflecting in RTO website v1 ,KEDB-for-IIB-issue-policy-not-reflecting-in-RTO-website-v1.docx
+KEDB for ILM removing duplicate ids v1 ,KEDB-for-ILM-removing-duplicate-ids-v1.docx
+KEDB for ILM transfer cases v1 ,KEDB-for-ILM-transfer-cases-v1.docx
+KEDB for MC unflag the fastrack v1 ,KEDB-for-MC-unflag-the-fastrack-v1.docx
+KEDB for MC update final to interim v1 ,KEDB-for-MC-update-final-to-interim-v1.docx
+KEDB for MDPortal policy renewal issue v1 ,KEDB-for-MDPortal-policy-renewal-issue-v1.docx
+KEDB for MPI change the kind of damage v1 ,KEDB-for-MPI-change-the-kind-of-damage-v1.docx
+KEDB for MPI claim close erequest issue v1 ,KEDB-for-MPI-claim-close-erequest-issue-v1.docx
+KEDB for MPI contact details not displayed in pdf v1 ,KEDB-for-MPI-contact-details-not-displayed-in-pdf-v1.docx
+KEDB for MPI data removal in motor dealer cases v1 ,KEDB-for-MPI-data-removal-in-motor-dealer-cases-v1.docx
+KEDB for MPI IMD rights issue v1 ,KEDB-for-MPI-IMD-rights-issue-v1.docx
+KEDB for MPI not able to search scrutiny after policy issuancev1 ,KEDB-for-MPI-not-able-to-search-scrutiny-after-policy-issuancev1.docx
+KEDB for MPI not able to search scrutiny v1 ,KEDB-for-MPI-not-able-to-search-scrutiny-v1.docx
+KEDB for MPI preinspection number display issue v1 ,KEDB-for-MPI-preinspection-number-display-issue-v1.docx
+KEDB for MPI tax rate not found in URM v1 ,KEDB-for-MPI-tax-rate-not-found-in-URM-v1.docx
+KEDB for MPI template v1 ,KEDB-for-MPI-template-v1.docx
+KEDB for NMC reject or approve the salvage issue v1 ,KEDB-for-NMC-reject-or-approve-the-salvage-issue-v1.docx
+KEDB for WBS duplicate transaction v1 ,KEDB-for-WBS-duplicate-transaction-v1.docx
+KEDB for WEB Agri Bank register issues while issuing a policy v1 ,KEDB-for-WEB-Agri-Bank-register-issues-while-issuing-a-policy-v1.docx
+KEDB for WEB Agri rate master deletion v1 ,KEDB-for-WEB-Agri-rate-master-deletion-v1.docx
+KEDB for WEB RTA cluster and guideline update v1 ,KEDB-for-WEB-RTA-cluster-and-guideline-update-v1.docx
+Motar RN ,Motar RN.docx
+SOP for Accounting application v1 ,SOP-for-Accounting-application-v1.docx
+SOP for GIOS application v1 ,SOP-for-GIOS-application-v1.docx
+SOP for HCM application v1 ,SOP-for-HCM-application-v1.docx
+SOP for Health Insurance application v1 ,SOP-for-Health-Insurance-application-v1.docx
+SOP for IIB application v1 ,SOP-for-IIB-application-v1.docx
+SOP for IMITRA application v1 ,SOP-for-IMITRA-application-v1.docx
+SOP for PPM agency licensing approval v1 ,SOP-for-PPM-agency-licensing-approval-v1.docx
+SOP for PPM budget approving request v1 ,SOP-for-PPM-budget-approving-request-v1.docx
+SOP for PPM CD rights in 2w2m v1 ,SOP-for-PPM-CD-rights-in-2w2m-v1.docx
+SOP for PPM cn rm rights v1 ,SOP-for-PPM-cn-rm-rights-v1.docx
+SOP for PPM PPID configuration v1 ,SOP-for-PPM-PPID-configuration-v1.docx
+SOP for PPM PPM Location Mapping v1 ,SOP-for-PPM-PPM-Location-Mapping-v1.docx
+SOP for PPM renewal notice download rights as per channel wise v1 ,SOP-for-PPM-renewal-notice-download-rights-as-per-channel-wise-v1.docx
+SOP for PPM RID for 1831 1805 1806 v1 ,SOP-for-PPM-RID-for-1831-1805-1806-v1.docx
+SOP for PPM UW approval rights health v1 ,SOP-for-PPM-UW-approval-rights-health-v1.docx
+SOP for PPM UW approval rights motor v1 ,SOP-for-PPM-UW-approval-rights-motor-v1.docx
+SOP for PPM UW approval rights non motor v1 ,SOP-for-PPM-UW-approval-rights-non-motor-v1.docx
+Untitled attachment 00039 ,Untitled attachment 00039.docx
