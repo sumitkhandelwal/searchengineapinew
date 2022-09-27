@@ -44,5 +44,11 @@ def search():
     except Exception as e:
         return jsonify({'Status Code ': 400,'Error': e})
 
+@app.route('/', methods = ['GET', 'POST'])
+def root():
+	stringmsg = 'Application Running'
+	return stringmsg
+
+
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5000)
